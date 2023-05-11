@@ -5,7 +5,7 @@
 and PWA for Russian and European companies.* 
 
 I have been working in the
-IT-sphere for more than 4 years and communicated a lot with people from different areas (designers, managers, sales people), so in addition to hard skills, I have good soft skills too. In the nearest future, I'm planning to become a team leader because I
+IT-sphere for more than 4 years and communicated a lot with people from different areas (designers, managers, sales people), so in addition to hard skills, I have good soft skills too. I
 appreciate working with people and managing project processes on a development
 level.
 ### 🧰 Languages and Tools
